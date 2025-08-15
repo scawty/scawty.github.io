@@ -17,3 +17,7 @@ params:
       url: "https://www.linkedin.com/in/scott-cilento/"
     - name: "X"
       url: "https://x.com/scott_cilento"
+
+caches:
+  images:
+    dir: :cacheDir/images
