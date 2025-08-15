@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Scott Cilento Jr.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Scott Cilento Jr.</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Aug 2025 12:16:42 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Products That Work</title>
+      <link>http://localhost:1313/posts/wrappers/</link>
+      <pubDate>Wed, 13 Aug 2025 12:16:42 -0500</pubDate>
+      <guid>http://localhost:1313/posts/wrappers/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve used a lot of new AI products over the past few months and am starting to see a pattern in what is working and what isn&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;Building with LLMs is like hiring a smart graduate for every task. They have general intelligence and follow instructions well, but have little domain expertise.&lt;/p&gt;
+&lt;p&gt;And it&amp;rsquo;s actually worse than that: each time you ask them to perform some task, you&amp;rsquo;re handing a brand new graduate the same set of instructions. By default, they have no memory, don&amp;rsquo;t accumulate experience or learn from what they&amp;rsquo;ve done.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
